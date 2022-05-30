@@ -1,4 +1,5 @@
-# GraphWarData
+# GraphWarData (Deprecated)
+Note: This repo is **Deprecated** since GraphWar no longer uses these data.
 
 
 # Usage of `.npz` datasets
